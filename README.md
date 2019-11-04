@@ -1,2 +1,2 @@
 # ACM
-ACM problems
+ACM problems done in "Semana i" at ITESM campus CDMX
